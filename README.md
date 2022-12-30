@@ -66,3 +66,5 @@ Unless required by applicable law or agreed to in writing, software distributed 
 ## Course material
 
 The course material is licensed under a [Creative Commons BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed) license.
+
+this is a fork done by me for the course projects.
